@@ -4,4 +4,4 @@
 INSERT INTO goods_table
 (goods_code,goods_name,price,update_day)
 VALUES
-('M001','マフラー',4500,'2023/06/24');
+('M001','マフラー',4500,CURRENT_DATE);
